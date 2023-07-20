@@ -25,47 +25,24 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
+### Programming Languages
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Python__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Have taken various classes in how to program using Python
+- Know the basics of Pythin and how to program using functions
+- Have learned how to use Pandas in python to analyze data
 
-### Data Science Lead
+__R__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Have learned how to analyze data using R
+- Have taken classes in this and plan to take more
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+__SQL__
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- have learned the basics in how to use SQL to organize databases
+- have learned how to use sql in pandas to analyze the various tables
+- Can filter the datasets to show what I need
 
 ## Service and Work History
 
@@ -73,20 +50,38 @@ __Pinnacle Management Group__,
 `2018-2020`
 __Service Missionary__, North Carolina
 
+- Helped the hispanic immigrants in North Carolina better themselves and their lives through service
+- Learned to speak the Spanish Language fluently
+
+
 `2020-2021`
 __Inventory Coordinator__, Expressions Vinyl
+
+- Helped maintain inventory in the warehouse.
+- Moved raw material to be cut into the sellable vinyl
 
 `2021-2022`
 __Math and Statistics Tutor__, BYU-Idaho
 
+- Helped Various students with their questions in their math and statistics class.
+
 `January 2022 - July 2022`
 __Disease Investigator__, Eastern Idaho Public Health
+
+- Helped input covid tests into the state system as they came in
+- Called out to those who were ill to find out symptoms and track the spread of COVID-19
 
 `July 2022 - November 2022`
 __Solar Salesmen__, Elite Energy Consultants
 
+- Went door to door to help set up appointments with homeowners to see if they can save money with Solar energy.
+- Learned how to be a better communicator
+
 `January 2023 - Present`
 __Custoer Care Representative__, Melaleuca Inc.
+
+- Took calls from customers who were having problems with their products
+- Helped customers solve their problems
 
 
 
