@@ -20,8 +20,9 @@ __Brigham Young University Idaho__, Rexburg, ID
 
 - Bachelor's in Data Science with a 3.2 GPA
 
+__Hillcrest High School__, Ammon, ID
 
-
+- High School Diploma with a 3.0 GPA
 
 ## Related Experience
 
@@ -46,30 +47,11 @@ __SQL__
 
 ## Service and Work History
 
+`January 2023 - Present`
+__Customer Care Representative__, Melaleuca Inc.
 
-`2018-2020`
-__Service Missionary__, North Carolina
-
-- Helped the hispanic immigrants in North Carolina better themselves and their lives through service
-- Learned to speak the Spanish Language fluently
-
-
-`2020-2021`
-__Inventory Coordinator__, Expressions Vinyl
-
-- Helped maintain inventory in the warehouse.
-- Moved raw material to be cut into the sellable vinyl
-
-`2021-2022`
-__Math and Statistics Tutor__, BYU-Idaho
-
-- Helped Various students with their questions in their math and statistics class.
-
-`January 2022 - July 2022`
-__Disease Investigator__, Eastern Idaho Public Health
-
-- Helped input covid tests into the state system as they came in
-- Called out to those who were ill to find out symptoms and track the spread of COVID-19
+- Took calls from customers who were having problems with their products
+- Helped customers solve their problems
 
 `July 2022 - November 2022`
 __Solar Salesmen__, Elite Energy Consultants
@@ -77,11 +59,28 @@ __Solar Salesmen__, Elite Energy Consultants
 - Went door to door to help set up appointments with homeowners to see if they can save money with Solar energy.
 - Learned how to be a better communicator
 
-`January 2023 - Present`
-__Custoer Care Representative__, Melaleuca Inc.
+`January 2022 - July 2022`
+__Disease Investigator__, Eastern Idaho Public Health
 
-- Took calls from customers who were having problems with their products
-- Helped customers solve their problems
+- Helped input covid tests into the state system as they came in
+- Called out to those who were ill to find out symptoms and track the spread of COVID-19
+
+`2021-2022`
+__Math and Statistics Tutor__, BYU-Idaho
+
+- Helped Various students with their questions in their math and statistics class.
+
+`2020-2021`
+__Inventory Coordinator__, Expressions Vinyl
+
+- Helped maintain inventory in the warehouse.
+- Moved raw material to be cut into the sellable vinyl
+
+`2018-2020`
+__Service Missionary__, North Carolina
+
+- Helped the hispanic immigrants in North Carolina better themselves and their lives through service
+- Learned to speak the Spanish Language fluently
 
 
 
