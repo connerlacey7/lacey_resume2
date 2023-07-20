@@ -3,7 +3,7 @@ layout: cv
 title: Conner Lacey's Resume
 ---
 # Conner Lacey
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Student at Brigham Young University- Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,15 +16,12 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2017-2024`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor's in Data Science with a 3.2 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 
 
 ## Related Experience
@@ -73,12 +70,28 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+
+`2018-2020`
+__Service Missionary__, North Carolina
+
+`2020-2021`
+__Inventory Coordinator__, Expressions Vinyl
+
+`2021-2022`
+__Math and Statistics Tutor__, BYU-Idaho
+
+`January 2022 - July 2022`
+__Disease Investigator__, Eastern Idaho Public Health
+
+`July 2022 - November 2022`
+__Solar Salesmen__, Elite Energy Consultants
+
+`January 2023 - Present`
+__Custoer Care Representative__, Melaleuca Inc.
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
+
 
 
 
