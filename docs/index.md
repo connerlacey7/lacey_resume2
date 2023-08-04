@@ -9,6 +9,7 @@ Student at Brigham Young University- Idaho
 <a href="lac17001@byui.edu">lac17001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="connerlacey7.github.io/lacey_resume2/">GitHub</a>
+| <a href="www.linkedin.com/in/conner-lacey-17275a150">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
