@@ -19,7 +19,7 @@ Student at Brigham Young University- Idaho
 `2017-2024`
 __Brigham Young University Idaho__, Rexburg, ID
 
-- Bachelor's in Data Science with a 3.2 GPA
+- Bachelor's in Data Science with a 3.2 GPA, expected graduation Fall 2024
 
 __Hillcrest High School__, Ammon, ID
 
@@ -32,19 +32,20 @@ __Hillcrest High School__, Ammon, ID
 __Python__
 
 - Have taken various classes in how to program using Python
-- Know the basics of Pythin and how to program using functions
-- Have learned how to use Pandas in python to analyze data
+- Know the basics of Python and how to program using functions
+- Have learned how to use Pandas in Python to analyze data
 
 __R__
 
 - Have learned how to analyze data using R
 - Have taken classes in this and plan to take more
+- Have used R to do business analytics with approximately 400,000 rows of data
 
 __SQL__
 
-- have learned the basics in how to use SQL to organize databases
-- have learned how to use sql in pandas to analyze the various tables
-- Can filter the datasets to show what I need
+- Have learned to use SQL for database organization
+- Have learned how to use SQL in Pandas to analyze tables
+- Can filter the datasets to show desired information
 
 ## Service and Work History
 
@@ -63,25 +64,25 @@ __Solar Salesmen__, Elite Energy Consultants
 `January 2022 - July 2022`
 __Disease Investigator__, Eastern Idaho Public Health
 
-- Helped input covid tests into the state system as they came in
+- Helped input COVID-19 test results into the state system as they came in
 - Called out to those who were ill to find out symptoms and track the spread of COVID-19
 
 `2021-2022`
 __Math and Statistics Tutor__, BYU-Idaho
 
-- Helped Various students with their questions in their math and statistics class.
+- Helped students with their questions in their math and statistics classes
 
 `2020-2021`
 __Inventory Coordinator__, Expressions Vinyl
 
-- Helped maintain inventory in the warehouse.
-- Moved raw material to be cut into the sellable vinyl
+- Helped maintain inventory in the warehouse
+- Moved raw material to be cut into smaller retail quantities
 
 `2018-2020`
 __Service Missionary__, North Carolina
 
-- Helped the hispanic immigrants in North Carolina better themselves and their lives through service
-- Learned to speak the Spanish Language fluently
+- Helped Hispanic immigrants in North Carolina better themselves and their lives through service
+- Learned to speak the Spanish language fluently
 
 
 
